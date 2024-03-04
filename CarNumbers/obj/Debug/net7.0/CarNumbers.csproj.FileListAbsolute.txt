@@ -1,0 +1,15 @@
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Автомобильные номера\CarNumbers\bin\Debug\net7.0\CarNumbers.exe
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Автомобильные номера\CarNumbers\bin\Debug\net7.0\CarNumbers.deps.json
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Автомобильные номера\CarNumbers\bin\Debug\net7.0\CarNumbers.runtimeconfig.json
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Автомобильные номера\CarNumbers\bin\Debug\net7.0\CarNumbers.dll
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Автомобильные номера\CarNumbers\bin\Debug\net7.0\CarNumbers.pdb
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Автомобильные номера\CarNumbers\obj\Debug\net7.0\CarNumbers.csproj.AssemblyReference.cache
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Автомобильные номера\CarNumbers\obj\Debug\net7.0\CarNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Автомобильные номера\CarNumbers\obj\Debug\net7.0\CarNumbers.AssemblyInfoInputs.cache
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Автомобильные номера\CarNumbers\obj\Debug\net7.0\CarNumbers.AssemblyInfo.cs
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Автомобильные номера\CarNumbers\obj\Debug\net7.0\CarNumbers.csproj.CoreCompileInputs.cache
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Автомобильные номера\CarNumbers\obj\Debug\net7.0\CarNumbers.dll
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Автомобильные номера\CarNumbers\obj\Debug\net7.0\refint\CarNumbers.dll
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Автомобильные номера\CarNumbers\obj\Debug\net7.0\CarNumbers.pdb
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Автомобильные номера\CarNumbers\obj\Debug\net7.0\CarNumbers.genruntimeconfig.cache
+C:\My Stuff\С# - обучение, проекты\Ozon Contest February 2024\Автомобильные номера\CarNumbers\obj\Debug\net7.0\ref\CarNumbers.dll
